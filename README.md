@@ -14,7 +14,7 @@
 - server : 環境設定>サーバー>ランタイム環境
 
 ビルド・パスや詳細設定は後日(MacとWindowsが連携できた!これはすごい!)<br>
-GitHubは静的は動かせるが、動的は無理みたいです。しかし、herokuがあれば[出来そう](https://doublepractice.herokuapp.com)!
+GitHubは静的は動かせるが、動的は無理みたいです。しかし、herokuがあれば[出来そう](https://doublepractice.herokuapp.com)です!
 
 
 
