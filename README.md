@@ -16,7 +16,7 @@
 ビルド・パスや詳細設定は後日(MacとWindowsが連携できた!これはすごい!)<br>
 GitHubは静的は動かせるが、動的は無理みたいです。しかし、herokuがあれば[出来そう](https://doublepractice.herokuapp.com)です!
 
-[Wikiへ飛ばす(相対パス大丈夫かなあ…)](../../wiki/Reflected-in-repository-(branch)#カミングスーン)
+[Wikiへ飛ばす(相対パス大丈夫かなあ…)](../../wiki/Reflected-in-repository-(branch)#カミングスーン)<br>
 `[Wikiへ飛ばす(相対パス大丈夫かなあ…)](../../wiki/Reflected-in-repository-(branch)#カミングスーン)`
 
 
