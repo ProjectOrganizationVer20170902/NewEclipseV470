@@ -19,8 +19,8 @@ GitHubは静的は動かせるが、動的は無理みたいです。しかし�
 [Wikiへ飛ばす(相対パス大丈夫かなあ…)](../../wiki/Reflected-in-repository-(branch)#カミングスーン)<br>
 `[Wikiへ飛ばす(相対パス大丈夫かなあ…)](../../wiki/Reflected-in-repository-(branch)#カミングスーン)`
 
-[Wikiへ飛ばす(絶対、相対以外だとこれだがGitHubではcode以外不可能)](/ProjectOrganizationVer20170902/NewEclipseV470/wiki/Reflected-in-repository-(branch)#カミングスーン)<br>
-`[Wikiへ飛ばす(絶対、相対以外だとこれだがGitHubではcode以外不可能)](/ProjectOrganizationVer20170902/NewEclipseV470/wiki/Reflected-in-repository-(branch)#カミングスーン)<br>`
+[Wikiへ飛ばす(絶対、相対以外(/)の調査はすること)](/wiki/Reflected-in-repository-(branch)#カミングスーン)<br>
+`[Wikiへ飛ばす(絶対、相対以外(/)の調査はすること)](/wiki/Reflected-in-repository-(branch)#カミングスーン)<br>`
 
 
 
