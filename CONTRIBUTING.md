@@ -1,6 +1,6 @@
 # Issues & Pull request 新規作成時のルール
-- [Issues](#Issues)
-- [Pull request](#Pull-request)
+- [Issues](#issues)
+- [Pull request](#pull-request)
 
 ## Issues
 新規Issues作成時、各々のIssuesの内容に対応したチェック項目を追加してください。<br>
