@@ -3,7 +3,7 @@
 - [Pull request](#pull-request)
 
 ## 目的
-IssuesやPull requestに必須チェック項目を追加することにより、進捗管理向上や抜け漏れの防止を図りたい。
+IssuesやPull requestに必須チェック項目を追加することにより、**進捗管理向上や抜け漏れの防止**を図る。
 
 ## 詳細
 ### Issues
