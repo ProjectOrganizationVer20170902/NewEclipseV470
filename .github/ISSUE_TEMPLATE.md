@@ -2,7 +2,7 @@
 新規Issuesを立ち上げた方は必ず下のチェック項目を実施してください。
 Issues管理を円滑にするため宜しくお願いします。
 - [ ] [新規Isuues作成画面の上部に記載されているcontributingのリンクを押下し、
-新規作成時のルールに基づきIssuesの内容に対応したチェック項目をに追加すること](../wiki/Notes-on-launching-Issues)
+新規作成時のルールに基づきIssuesの内容に対応したチェック項目を**必須チェックリスト**に追加すること](../wiki/Notes-on-launching-Issues)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/CONTRIBUTING.md)のリンク先より実施すること)
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
