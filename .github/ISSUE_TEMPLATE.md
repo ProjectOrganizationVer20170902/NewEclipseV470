@@ -1,10 +1,13 @@
 ### 新規Issues作成者チェックリスト
 新規Issuesを立ち上げた方は必ず下のチェック項目を実施してください。
 Issues管理を円滑にするため宜しくお願いします。
-- [ ] [新規Isuues作成画面の上部に記載されているcontributingのリンクを押下し、
+- [ ] [新規Issues作成画面の上部に記載されているcontributingのリンクを押下し、
 新規作成時のルールに基づきIssuesの内容に対応したチェック項目を
 下部の**必須チェックリスト**に追加すること](../wiki/Notes-on-launching-Issues)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/.github/CONTRIBUTING.md)のリンク先より実施すること)
+- [ ] 新規Issues作成画面の上部にconductのリンクがあればconductを押下し目を通すこと
+(チームのルールに従い互いを対等に尊重しあえると約束できれば内容を読まずにチェックを入れて構いません)
+conductのリンクがなければチェックをつけて構いません
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
 - [ ] [Projectsを新規Issuesで必ず設定し、Issuesを立ち上げ後にProjectsに紐づけること](../wiki/Confirm-Projects-setting)
