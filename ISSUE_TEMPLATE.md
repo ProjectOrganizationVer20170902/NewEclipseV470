@@ -1,19 +1,19 @@
 ### 新規Issues作成者チェックリスト
-新規Issuesを立ち上げた方は必ず下のチェック項目を実施してください。<br>
+新規Issuesを立ち上げた方は必ず下のチェック項目を実施してください。
 Issues管理を円滑にするため宜しくお願いします。
-- [ ] 新規Isuues作成画面の上部に記載されているcontributingのリンクを押下し、
-新規作成時のルールに基づきIssuesの内容に対応したチェック項目を[必須チェックリスト](#必須チェックリスト)に追加すること(詳細は[こちら](../wiki/Notes-on-launching-Issues))。<br>
+- [ ] [新規Isuues作成画面の上部に記載されているcontributingのリンクを押下し、
+新規作成時のルールに基づきIssuesの内容に対応したチェック項目をに追加すること](../wiki/Notes-on-launching-Issues)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/CONTRIBUTING.md)のリンク先より実施すること)
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
 - [ ] [Projectsを新規Issuesで必ず設定し、Issuesを立ち上げ後にProjectsに紐づけること](../wiki/Confirm-Projects-setting)
 - [ ] [Milestoneを必ず設定すること](../wiki/Confirm-Milestone-setting)
-- [ ] 末尾の[備考](#備考)のカッコとカッコ内が消去されているか
+- [ ] 末尾の**備考**のカッコとカッコ内が消去されているか
 
 わからないことがございましたら、一度新規Issuesを立ち上げた上でチェックリストのリンク先よりご確認ください。
 
 ### 開発者進捗状況
-進捗状況をチェック項目より記載してください。<br>
+進捗状況をチェック項目より記載してください。
 例えば、30%終了している場合は10%, 20%, 30%をチェックしてください。
 - [ ] 10%
 - [ ] 20%
@@ -41,4 +41,3 @@ Issues管理を円滑にするため宜しくお願いします。
 
 ### 備考
 (他に何か追加したいことがあれば記入してください。このカッコ内は備考の有無問わず消去してください)
-
