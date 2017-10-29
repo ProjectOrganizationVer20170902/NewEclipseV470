@@ -5,6 +5,9 @@ Pull requests管理を円滑にするため宜しくお願いします。
 新規作成時のルールに基づきPull requestsの内容に対応したチェック項目を
 下部の**必須チェックリスト**に追加すること](../wiki/Notes-on-launching-Pull-requests)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/.github/CONTRIBUTING.md)のリンク先より実施すること)
+- [ ] 新規Pull requests作成画面の上部にconductのリンクがあればconductを押下し目を通すこと
+(チームのルールに従い互いを対等に尊重しあえると約束できれば内容を読まずにチェックを入れて構いません)
+conductのリンクがなければチェックをつけて構いません
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Reviewersを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
