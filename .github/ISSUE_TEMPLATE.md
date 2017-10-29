@@ -6,7 +6,8 @@ Issues管理を円滑にするため宜しくお願いします。
 下部の**必須チェックリスト**に追加すること](../wiki/Notes-on-launching-Issues)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/.github/CONTRIBUTING.md)のリンク先より実施すること)
 - [ ] 新規Issues作成画面の上部にconductのリンクがあればconductを押下し目を通すこと
-(チームのルールに従い互いを対等に尊重しあえると約束できれば内容を読まずにチェックを入れて構いません)
+(チームのルールに従い互いを対等に尊重しあえると約束できれば
+内容を読まずにチェックを入れて構いません)
 conductのリンクがなければチェックをつけて構いません
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
