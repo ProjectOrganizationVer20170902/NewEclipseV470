@@ -1,11 +1,12 @@
 ### 新規Pull requests作成者チェックリスト
 新規Pull requestsを立ち上げた方は必ず下のチェック項目を実施してください。
 Pull requests管理を円滑にするため宜しくお願いします。
-- [ ] [新規Isuues作成画面の上部に記載されているcontributingのリンクを押下し、
+- [ ] [新規Pull requests作成画面の上部に記載されているcontributingのリンクを押下し、
 新規作成時のルールに基づきPull requestsの内容に対応したチェック項目を
 下部の**必須チェックリスト**に追加すること](../wiki/Notes-on-launching-Pull-requests)
 (新規作成時に行わなかった場合は[contributing](../blob/develop/.github/CONTRIBUTING.md)のリンク先より実施すること)
 - [ ] [Assigneesを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
+- [ ] [Reviewersを必ず設定すること](../wiki/Confirm-Assignees-Reviewers-setting)
 - [ ] [Labelsを必ず設定すること](../wiki/Confirm-Labels-setting)
 - [ ] [Projectsを新規Pull requestsで必ず設定し、Pull requestsを立ち上げ後にProjectsに紐づけること](../wiki/Confirm-Projects-setting)
 - [ ] [Milestoneを必ず設定すること](../wiki/Confirm-Milestone-setting)
