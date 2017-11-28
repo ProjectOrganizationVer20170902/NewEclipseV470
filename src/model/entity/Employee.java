@@ -3,7 +3,7 @@ package model.entity;
 import java.io.Serializable;
 
 public class Employee implements Serializable  {
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 92929292929292L;
 
 	//フィールド
 	private String name;
